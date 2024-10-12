@@ -1,0 +1,17 @@
+{
+  "name": "clonefolder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "path": "^0.12.7",
+    "server": "^1.0.41",
+    "sever": "^0.0.2"
+  }
+}
